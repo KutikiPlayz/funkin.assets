@@ -22,19 +22,19 @@
         "leftStatic": { "prefix": "staticLeft0" },
         "leftPress": { "prefix": "pressLeft0" },
         "leftConfirm": { "prefix": "confirmLeft0" },
-        "leftConfirmHold": { "prefix": "confirmLeft0" },
+        "leftConfirmHold": { "prefix": "confirmLeft0", "frameIndices": [3] },
         "downStatic": { "prefix": "staticDown0" },
         "downPress": { "prefix": "pressDown0" },
         "downConfirm": { "prefix": "confirmDown0" },
-        "downConfirmHold": { "prefix": "confirmDown0" },
+        "downConfirmHold": { "prefix": "confirmDown0", "frameIndices": [3] },
         "upStatic": { "prefix": "staticUp0" },
         "upPress": { "prefix": "pressUp0" },
         "upConfirm": { "prefix": "confirmUp0" },
-        "upConfirmHold": { "prefix": "confirmUp0" },
+        "upConfirmHold": { "prefix": "confirmUp0", "frameIndices": [3] },
         "rightStatic": { "prefix": "staticRight0" },
         "rightPress": { "prefix": "pressRight0" },
         "rightConfirm": { "prefix": "confirmRight0" },
-        "rightConfirmHold": { "prefix": "confirmRight0" }
+        "rightConfirmHold": { "prefix": "confirmRight0", "frameIndices": [3] }
       }
     },
     "holdNote": {
