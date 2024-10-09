@@ -80,7 +80,7 @@
         "offsets": [625, 360]
       }
     ],
-    "danceToBeat": true
+    "idleOnBeat": true
   },
   "charSelect": {
     "position": 4,

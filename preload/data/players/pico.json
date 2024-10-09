@@ -71,7 +71,7 @@
         "offsets": [625, 360]
       }
     ],
-    "danceToBeat": false
+    "idleOnBeat": false
   },
   "charSelect": {
     "position": 3,
