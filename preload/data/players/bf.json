@@ -80,7 +80,8 @@
         "prefix": "Boyfriend DJ new character ",
         "offsets": [625, 360]
       }
-    ]
+    ],
+    "idleOnBeat": true
   },
   "charSelect": {
     "position": 4,
